@@ -2,6 +2,9 @@
 
 Добрый день! Сайт Климовой Ирины Викторовны!
 
+![фото коллектива Витебского филиала](https://github.com/user-attachments/assets/9d6c363c-e8c9-429d-94bd-9b6b4969a753)
+
+
 <!--
 **klimova-iv/klimova-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
